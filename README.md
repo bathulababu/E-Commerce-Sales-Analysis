@@ -14,5 +14,5 @@
 - This Project Repository consists of - 
 - SQL In Depth Analysis - Analysed the dataset by writing complex SQL Queries to gain insights.
 - Power BI Dashboard - live Interactive Dashboard for visualizing the insights.
-- Alteryx Workflows - Used in RFM Analysis to calculate score for customer segmentation.
+
 
